@@ -12,6 +12,11 @@ export class RecipeListComponent implements OnInit {
       'Test',
       'This a test recipe',
       'http://maxpixel.freegreatpicture.com/static/photo/1x/Recipe-Soup-Noodle-Curried-Spicy-Chicken-Khaosoi-2344152.jpg'
+    ),
+    new Recipe(
+      'Test',
+      'This a test recipe',
+      'http://maxpixel.freegreatpicture.com/static/photo/1x/Recipe-Soup-Noodle-Curried-Spicy-Chicken-Khaosoi-2344152.jpg'
     )
   ];
 
